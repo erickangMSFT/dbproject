@@ -1,4 +1,4 @@
-# Project: WideWorldImporters
+# Project: WideWorldImporters - demo
 
 Say **yo sqlproj** and start developing mssql database.
 
